@@ -35,6 +35,7 @@ requires     'Time::Seconds'                    => '0';
 requires     'XML::XPath'                       => '0';
 requires     'utf8'                             => '0';
 
+repository 'https://github.com/szabgab/Task-Litmus';
 
 WriteAll;
 
